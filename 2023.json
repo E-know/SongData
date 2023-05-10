@@ -4,7 +4,7 @@
         { 
         "id": 983826748,
         "term": "UNFORGIVEN",
-        "answer": "unforgiven"
+        "answer": ["unforgiven",]
         }
     ]
 }
