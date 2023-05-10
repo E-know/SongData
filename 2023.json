@@ -1,7 +1,10 @@
-[
-    {
-    "id": 983826748,
-    "term": "UNFORGIVEN"
-    "answer": ["unforgiven"]
-    }
-]
+{
+    "content": 
+    [ 
+        { 
+        "id": 983826748,
+        "term": "UNFORGIVEN"
+        "answer": ["unforgiven"]
+        }
+    ]
+}
