@@ -36,5 +36,26 @@
         "singer": "세븐틴(SEVENTEEN)",
         "answer": ["Super", "손오공"]
         },
+        { 
+        "id": "1685400184",
+        "term": "Spicy aespa",
+        "title": "Spicy",
+        "singer": "aespa",
+        "answer": ["spicy", "스파이시"]
+        },
+        { 
+        "id": "1657231962",
+        "term": "Ditto NewJeans",
+        "title": "Ditto",
+        "singer": "NewJeans",
+        "answer": ["ditto", "디토"]
+        },
+        { 
+        "id": "1668145595",
+        "term": "Fighting (feat. Lee Young Ji) 부석순",
+        "title": "파이팅 해야지(Feat. 이영지)",
+        "singer": "부석순(SEVENTEEN)",
+        "answer": ["파이팅해야지", "디토"]
+        },
     ]
 }
