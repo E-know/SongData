@@ -5,57 +5,81 @@
         "id": "983826748",
         "term": "UNFORGIVEN 르세라핌",
         "title": "UNFORGIVEN",
-        "singer": "르세라핌(LE SSERAFIM)",
-        "answer": ["unforgiven"]
+        "singer": "LE SSERAFIM (르세라핌)",
+        "answer": ["unforgiven"],
+        "highlight": 47
         },
         { 
         "id": "1680865730",
         "term": "I AM 아이브",
         "title": "I AM",
-        "singer": "아이브(IVE)",
-        "answer": ["iam"]
+        "singer": "IVE (아이브)",
+        "answer": ["iam"],
+        "highlight": 51
         },
         {
         "id": "1680865731",
         "term": "Kitsch IVE",
         "title": "Kitsch",
-        "singer": "아이브(IVE)",
-        "answer": ["kitsch"]
+        "singer": "아이브 (IVE)",
+        "answer": ["kitsch"],
+        "highlight": 60
         },
         { 
         "id": "1678664649",
         "term": "FLOWER 지수",
         "title": "꽃",
-        "singer": "지수(JISOO)",
-        "answer": ["flower", "꽃"]
+        "singer": "지수 (JISOO)",
+        "answer": ["flower", "꽃"],
+        "highlight": 57
         },
         { 
         "id": "1681324047",
         "term": "손오공 세븐틴",
         "title": "손오공",
-        "singer": "세븐틴(SEVENTEEN)",
-        "answer": ["Super", "손오공"]
+        "singer": "세븐틴 (SEVENTEEN)",
+        "answer": ["Super", "손오공"],
+        "highlight": 48
         },
         { 
         "id": "1685400184",
         "term": "Spicy aespa",
         "title": "Spicy",
         "singer": "aespa",
-        "answer": ["spicy", "스파이시"]
-        },
-        { 
-        "id": "1657231962",
-        "term": "Ditto NewJeans",
-        "title": "Ditto",
-        "singer": "NewJeans",
-        "answer": ["ditto", "디토"]
+        "answer": ["spicy", "스파이시"],
+        "highlight": 43
         },
         { 
         "id": "1668145595",
         "term": "Fighting (feat. Lee Young Ji) 부석순",
         "title": "파이팅 해야지(Feat. 이영지)",
-        "singer": "부석순(SEVENTEEN)",
-        "answer": ["파이팅해야지", "디토"]
+        "singer": "부석순 (SEVENTEEN)",
+        "answer": ["파이팅해야지"],
+        "highlight": 58
+        },
+        { 
+        "id": "1681517763",
+        "term": "FRIEND THE END 볼빨간사춘기",
+        "title": "FRIEND THE END",
+        "singer": "볼빨간사춘기",
+        "answer": ["friendtheend"],
+        "highlight": 44
+        },
+        { 
+        "id": "1670622073",
+        "term": "Teddy Bear STAYC (스테이씨)",
+        "title": "Teddy Bear",
+        "singer": "STAYC (스테이씨)",
+        "answer": ["teddybear"],
+        "highlight": 39
+        },
+        { 
+        "id": "1670622073",
+        "term": "Teddy Bear STAYC (스테이씨)",
+        "title": "Teddy Bear",
+        "singer": "STAYC (스테이씨)",
+        "answer": ["teddybear"],
+        "highlight": 39
         },
     ]
 }
