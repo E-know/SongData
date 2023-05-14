@@ -22,7 +22,7 @@
         "term": "Next Level aespa",
         "title": "Next Level",
         "singer": "aespa",
-        "answer": ["nextlevel"],
+        "answer": ["nextlevel", "넥스트레벨"],
         "highlight": 43
         },
         { 
@@ -56,6 +56,238 @@
           "singer": "아이유 (IU)",
           "answer": ["겨울잠"],
           "highlight": 85
+        },
+        { 
+          "id": "1560113348",
+          "term": "Celebrity 아이유 lilac",
+          "title": "Celebrity",
+          "singer": "아이유 (IU)",
+          "answer": ["celebrity", "셀레브리티"],
+          "highlight": 37
+        },
+        { 
+          "id": "1638035098",
+          "term": "브레이브걸스 - 롤린 (Rollin`)",
+          "title": "롤린 (Rollin')",
+          "singer": "브레이브걸스",
+          "answer": ["롤린", "rolin"],
+          "highlight": 53
+        },
+        { 
+          "id": "1597024424",
+          "term": "Dynamite bts",
+          "title": "Dynamite",
+          "singer": "방탄소년단",
+          "answer": ["dynamite", "다이나미아트", "다이너마이트"],
+          "highlight": 42
+        },
+        { 
+          "id": "1560113134",
+          "term": "라일락 아이유",
+          "title": "라일락",
+          "singer": "아이유 (IU)",
+          "answer": ["라일락", "lilac"],
+          "highlight": 41
+        },
+        { 
+          "id": "1598660389",
+          "term": "Butter bts",
+          "title": "Butter",
+          "singer": "방탄소년단",
+          "answer": ["butter", "버터"],
+          "highlight": 84
+        },
+        { 
+          "id": "1574008703",
+          "term": "바라만 보다 MSG워너비",
+          "title": "바라만 본다",
+          "singer": "MSG워너비(M.O.M)",
+          "answer": ["바라만보다"],
+          "highlight": 49
+        },
+        { 
+          "id": "1571238729",
+          "term": "헤픈 우연 헤이즈 (Heize)",
+          "title": "헤픈 우연",
+          "singer": "헤이즈 (Heize)",
+          "answer": ["헤픈우연"],
+          "highlight": 34
+        },
+        { 
+          "id": "1565769109",
+          "term": "Dun Dun Dance 오마이걸 (OH MY GIRL)",
+          "title": "Dun Dun Dance",
+          "singer": "오마이걸 (OH MY GIRL)",
+          "answer": ["던던댄스", "dundundance"],
+          "highlight": 58
+        },
+        { 
+          "id": "1488300930",
+          "term": "Blueming 아이유",
+          "title": "Blueming",
+          "singer": "아이유 (IU)",
+          "answer": ["블루밍", "브루밍", "blueming"],
+          "highlight": 45
+        },
+        { 
+          "id": "1561143399",
+          "term": "ASAP 스테이씨",
+          "title": "ASAP",
+          "singer": "STAYC (스테이씨)",
+          "answer": ["asap"],
+          "highlight": 42
+        },
+        { 
+          "id": "1570801286",
+          "term": "Alcohol-Free twice",
+          "title": "Alcohol-Free",
+          "singer": "TWICE",
+          "answer": ["alcoholfree", "알콜프리"],
+          "highlight": 48
+        },
+        { 
+          "id": "1574308371",
+          "term": "Weekend 태연",
+          "title": "Weekend",
+          "singer": "태연",
+          "answer": ["위캔드", "weekend"],
+          "highlight": 60
+        },
+        { 
+          "id": "1603218326",
+          "term": "멜로디 ASH ISLAND",
+          "title": "멜로디",
+          "singer": "ASH ISLAND",
+          "answer": ["멜로디", "melody"],
+          "highlight": 75
+        },
+        { 
+          "id": "1550554767",
+          "term": "이 밤을 빌려 말해요 (바른연애 길잡이 X 10CM)",
+          "title": "이 밤을 빌려 말해요",
+          "singer": "10CM",
+          "answer": ["이밤을빌려말해요"],
+          "highlight": 42
+        },
+        { 
+          "id": "1560113346",
+          "term": "Coin IU",
+          "title": "Coin",
+          "singer": "아이유 (IU)",
+          "answer": ["coin", "코인"],
+          "highlight": 55
+        },
+        { 
+          "id": "1578447630",
+          "term": "DUMB DUMB JEON SOMI",
+          "title": "DUMB DUMB",
+          "singer": "전소미",
+          "answer": ["dumbdumb", "덤덤"],
+          "highlight": 44
+        },
+        { 
+          "id": "1569172691",
+          "term": "안녕 (Hello) 조이",
+          "title": "안녕 (Hello)",
+          "singer": "조이 (JOY)",
+          "answer": ["안녕"],
+          "highlight": 87
+        },
+        { 
+          "id": "1587844525",
+          "term": "Savage aespa",
+          "title": " Savage",
+          "singer": "aespa",
+          "answer": ["savage"],
+          "highlight": 56
+        },
+        { 
+          "id": "1563132632",
+          "term": "In the morning ITZY",
+          "title": "마.피.아. In the morning",
+          "singer": "ITZY (있지)",
+          "answer": ["마피아inthemorning"],
+          "highlight": 47
+        },
+        { 
+          "id": "1580685467",
+          "term": "Queendom Red Velvet",
+          "title": "Queendom",
+          "singer": "Red Velvet (레드벨벳) ",
+          "answer": ["queendom", "퀸덤"],
+          "highlight": 51
+        },
+        { 
+          "id": "1594869783",
+          "term": "Merry-Go-Round (feat. Zion.T & Wonstein) sokodomo",
+          "title": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",
+          "singer": "sokodomo",
+          "answer": ["회전목마"],
+          "highlight": 94
+        },
+        { 
+          "id": "1553748401",
+          "term": "Don't Call Me SHINee",
+          "title": "Don't Call Me",
+          "singer": "SHINee (샤이니)",
+          "answer": ["돈콜미", "don'tcallme", "dontcallme"],
+          "highlight": 74
+        },
+        { 
+          "id": "",
+          "term": "",
+          "title": "",
+          "singer": "",
+          "answer": [""],
+          "highlight": 0
+        },
+        { 
+          "id": "1577524107",
+          "term": "NAKKA (with IU) AKMU",
+          "title": "낙하 (with 아이유)",
+          "singer": "AKMU (악뮤)",
+          "answer": ["낙하"],
+          "highlight": 48
+        },
+        { 
+          "id": "1572947688",
+          "term": "Rain Song (feat. Colde) Epik High",
+          "title": "비 오는날 듣기 좋은 노래",
+          "singer": "에픽하이 (EPIK HIGH)",
+          "answer": ["비오는날듣기좋은노래"],
+          "highlight": 76
+        },
+        { 
+          "id": "1583902627",
+          "term": "STEREOTYPE STAYC",
+          "title": "색안경",
+          "singer": "STAYC (스테이씨)",
+          "answer": ["색안경"],
+          "highlight": 52
+        },
+        { 
+          "id": "1592658697",
+          "term": "Day & Night (feat. Jay Park) Lee Young Ji",
+          "title": "낮 밤 (feat. 박재범)",
+          "singer": "이영지",
+          "answer": ["낮밤"],
+          "highlight": 70
+        },
+        { 
+          "id": "1596440531",
+          "term": "Meeting is easy, parting is hard (feat. Leellamarz & TOIL) Basick",
+          "title": "만남은 쉽고 이별은 어려워 (Feat. Leellamarz) (Prod. TOIL)",
+          "singer": "베이식 (Basick)",
+          "answer": ["만남은쉽고이별은어려워"],
+          "highlight": 76
+        },
+        { 
+          "id": "1597413269",
+          "term": "Dissonance (feat. AKMU) Mudd the student",
+          "title": "불협화음 (Feat. AKMU) (Prod. GRAY)",
+          "singer": "Mudd the student",
+          "answer": ["불협화음"],
+          "highlight": 156
         },
     ]
 }
